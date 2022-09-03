@@ -20,7 +20,7 @@
       "sata_sil.ko": ""
     },
   
-      "scripts": {
+    "scripts": {
       "on_boot": "check-sata_sil.sh"
     }
   
