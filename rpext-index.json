@@ -2626,6 +2626,23 @@
   }
 }
 {
+    "id": "sonicwim.sata_sil",
+    "url": "https://raw.githubusercontent.com/sonicwim/rp-ext/master/sata_sil/rpext-index.json",
+    "info": {
+      "name": "sata_sil",
+      "description": "Adds Silicon Image, Inc. SiI 3114 [SATALink/SATARaid] Serial ATA Controller (rev 02) Diver Support",
+      "author_url": "https://github.com/sonicwim",
+      "packer_url": "https://github.com/sonicwim/rp-ext/tree/main/sata_sil",
+      "help_url": "<todo>"
+    },
+    "releases": {
+      "ds3622xsp_42951": "https://raw.githubusercontent.com/sonicwim/rp-ext/master/sata_sil/releases/ds3622xsp_42218.json",
+      "ds3622xsp_42218": "https://raw.githubusercontent.com/sonicwim/rp-ext/master/sata_sil/releases/ds3622xsp_42218.json",
+      "ds3622xsp_42621": "https://raw.githubusercontent.com/sonicwim/rp-ext/master/sata_sil/releases/ds3622xsp_42218.json",
+      "ds3622xsp_42661": "https://raw.githubusercontent.com/sonicwim/rp-ext/master/sata_sil/releases/ds3622xsp_42218.json",
+  }
+}
+{
   "id": "pocopico.3w-sas",
   "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/3w-sas/rpext-index.json",
   "info": {
