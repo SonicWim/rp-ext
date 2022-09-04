@@ -11,7 +11,7 @@
     {
       "name": "check-sata_sil.sh",
       "url": "https://raw.githubusercontent.com/sonicwim/rp-ext/master/sata_sil/src/check-sata_sil.sh",
-      "sha256": "9a07d42fc9c562fd5ac6cf85454cefda0f3fd50b7b984a7a47a25d4520286ade",
+      "sha256": "063558c3b884eb521d123973bbb315486bbfc44afd8fcf703cd5c49e70678f65",
       "packed": false
     }
   ],
